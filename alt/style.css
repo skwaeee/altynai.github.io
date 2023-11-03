@@ -1,0 +1,226 @@
+
+  
+
+.A{
+    position: absolute;
+    width: 168px; 
+    height: 108px;
+    top: 0em;
+    right: 109em;
+}
+.f {
+position: absolute;
+width: 280px;
+height: 136px;
+top: 2em;
+left: 10em;
+}
+.whatsapp {
+    position: absolute;
+    top: 1em;
+    right:5em ;
+}
+.insta {
+    position: absolute;
+    top: 1em;
+    right: 10em;
+}
+.tg {
+    position: absolute;
+    top: 1em;
+    right: 15em;
+}
+.shine-button {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 35em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .shine-button2 {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 33em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button2:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button2:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button2:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .shine-button3 {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 31em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button3:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button3:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button3:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .shine-button4 {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 29em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button4:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button4:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button4:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .c {
+    position: absolute;
+    top:16em ;
+    left: 5em;
+   
+  }
+  .text {
+    position: absolute;
+    top: 33.5em;
+    font-size: 20px;
+    left: 31em;
+  }
+  .v {
+ position: absolute;
+ top: 63em;
+ height:43em ;
+ width:28em ;
+ left: 5em;
+  }
+  .text1{
+    position: absolute;
+    top: 69em;
+    left: 25em;
+    font-size: 22px;
+    }
+  .q{
+    margin-top: 7em;
+  }
+  .gj{
+    position: absolute;
+    top: 69em;
+    left: 40em;
+    width: 450px;
+    height: 350px;
+    
+  }
+  .kk{
+    position: absolute;
+    top: 120em;
+    width:30em ;
+    height: 50em;
+    left: 5em;
+  }
+  .text4{
+    position: absolute;
+    top: 115em;
+    left: 29em;
+    font-size: 22px;
+
+  }
+  .oo{
+    position: absolute;
+    top: 180em;
+    left: 5em ;
+
+  }
+  .text5{
+    position: absolute;
+    top: 160em;
+    left: 28em;
+    font-size: 22px;
+  }

@@ -1,0 +1,439 @@
+
+  body{
+    background-color: rgb(245, 218, 189);
+  }
+
+.A{
+    position: absolute;
+    width: 168px; 
+    height: 108px;
+    top: 0em;
+    right: 109em;
+}
+.f {
+position: absolute;
+width: 280px;
+height: 136px;
+top: 2em;
+left: 10em;
+}
+.whatsapp {
+    position: absolute;
+    top: 1em;
+    right:5em ;
+}
+.insta {
+    position: absolute;
+    top: 1em;
+    right: 10em;
+}
+.tg {
+    position: absolute;
+    top: 1em;
+    right: 15em;
+}
+.shine-button {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 35em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .shine-button2 {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 33em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button2:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button2:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button2:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .shine-button3 {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 31em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button3:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button3:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button3:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .shine-button4 {
+    text-decoration: none;
+    display: inline-block;
+    top: 1em;
+    left: 29em;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    transition: .2s ease-in-out;
+  }
+  .shine-button4:before {
+    content: "";
+    background: linear-gradient(90deg, rgba(255, 255, 255, .1), rgba(255, 255, 255, .5));
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+  }
+  .shine-button4:hover {
+    background: grey;
+    color: #fff;
+  }
+  .shine-button4:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+  }
+  .c {
+    position: absolute;
+    top:20em ;
+    left: 5em;
+    transition-property: all;
+    transition: 2s;
+   width: 360px;
+   height: 458px;
+  }
+  .c:hover:hover{
+    transform: scale(1.5,1.5);
+  }
+  .text0{
+    position: absolute;
+    top: 10em;
+    left: 24em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+  }
+  .text {
+    position: absolute;
+    top: 24em;
+    font-size: 22px;
+    left: 25em;
+    font-family: "Conthrax SemiBold";
+  }
+  .v {
+ position: absolute;
+ top: 70em;
+ height:29em ;
+ width:20em ;
+ left: 6em;
+ transition-property: all;
+ transition:3s ;
+ }
+ .v:hover:hover{
+  transform: scale(1.5,1.5);
+  height:24em ;
+  width:18em ;
+}
+
+  
+  .text1{
+    position: absolute;
+    top: 55em;
+    left: 25em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+    }
+  .q{
+    margin-top: 7em;
+  }
+  .gj{
+    position: absolute;
+    top: 63em;
+    left: 40em;
+    width: 440px;
+    height: 350px;
+    
+  }
+  .kk{
+    position: absolute;
+    top: 120em;
+    width:400px ;
+    height: 520px;
+    left: 5em;
+    transition-property: all;
+ transition:2s ;
+ }
+ .kk:hover:hover{
+  transform: scale(1.5,1.5);
+  width:370px ;
+    height: 510px;
+
+  }
+  .text4{
+    position: absolute;
+    top: 92em;
+    left: 25em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+
+  }
+  .oo{
+    position: absolute;
+    top: 173em;
+    left: 5em ;
+    width: 400px;
+    height: 540px;
+    transition-property: all;
+ transition:2s ;
+ }
+ .oo:hover:hover{
+  transform: scale(1.5,1.5);
+  width:370px ;
+    height: 510px;
+
+  }
+  .text5{
+    position: absolute;
+    top: 138em;
+    left: 25em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+  }
+  .ee{
+    position: absolute;
+    top: 225em;
+    left: 5em ;
+    width: 400px;
+    height: 540px;
+    transition-property: all;
+ transition:2s ;
+ }
+ .ee:hover:hover{
+  transform: scale(1.5,1.5);
+  width:370px ;
+    height: 510px;
+  }
+  .text6{
+    position: absolute;
+    top: 177em;
+    left: 25em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+  }
+  .text00{
+    position: absolute;
+    top: 21em;
+    left: 25em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+  }
+  .Name{
+    padding: 10px 10px 10px 10px;
+    margin-top: 320em;
+    margin-left: 16em;
+  }
+  .mail{
+    padding: 10px 10px 10px 10px;
+  }
+  .text7{
+    position: absolute;
+    top: 200em;
+    left: 10em;
+    font-size: 22px;
+    font-family: "Conthrax SemiBold";
+  }
+  .vsh{
+    position: absolute;
+    top: 337em;
+    left: 16.5em;
+    padding: 5px 30px 50px 5px;
+
+  }
+  .hh{
+    position: absolute;
+    display: inline-block;
+    top: 344em;
+    left: 17em;
+    padding: 10px 10px 10px 10px;
+    background-color: black;
+    color: white;
+  }
+  .text8{
+    position: absolute;
+    top: 148em;
+    left: 18em;
+    font-size: 29px;
+    font-family: "Conthrax SemiBold";
+  }
+  .text9{
+    position: absolute;
+    top: 303em;
+    left: 50em;
+    font-size: 15px;
+    font-family: "Conthrax SemiBold";
+  }
+  .lin{
+    position: absolute;
+    top: 268em ;
+    left: 0.5em;
+    width: 99%;
+    border-top: 3.5px solid black;
+  }
+  .ic{
+    list-style: none;
+    display: flex;
+  color: black;}
+    a{
+    display: inline;
+    text-decoration: none;
+    color: black;
+    line-height: 80%;
+    
+  }
+.tt{
+  position: absolute;
+top: 276em;
+left: 79em;
+}
+.tt1{
+  position: absolute;
+top: 278em;
+left: 79em;
+}
+.tt0{
+  position: absolute;
+  top: 280em;
+  left: 79em; 
+}
+.tt2{
+  position: absolute;
+top: 282em;
+left: 79em;
+}
+.tt3{
+  position: absolute;
+top: 284em;
+left: 79em;
+}
+.tt4{
+  position: absolute;
+top: 286em;
+left: 79em;
+}
+.tt5{
+  position: absolute;
+top: 288em;
+left: 79em;
+}
+.pf{
+  position: absolute;
+  top: 173em;
+  left: 35em ;
+  width: 190px;
+  height: 260px;
+}
+.lm{
+  position: absolute;
+  top: 225em;
+  left: 35em ;
+  width: 190px;
+  height: 260px;
+}
+.top{
+  position: absolute;
+  top: 225em;
+  left: 50em ;
+  width: 420px;
+  height: 260px;
+}
+.xs{
+  position: absolute;
+  top: 225em;
+  left: 80em ;
+  width: 420px;
+  height: 260px; 
+}
+.as{
+  position: absolute;
+  top: 173em;
+  left: 50em ;
+  width: 470px;
+  height: 260px;  
+}
+.op{
+  position: absolute;
+  top: 173em;
+  left: 84em ;
+  width: 470px;
+  height: 260px;
+}

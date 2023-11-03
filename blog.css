@@ -1,0 +1,49 @@
+.ff{
+    position: absolute;
+    width: 460px;
+    height: 276px;
+    top: 8em;
+    left: 11em;
+}
+.text{
+    position: absolute;
+    top: 1em;
+    left: 28em;
+    font-size: 32px;
+    font-family: "Conthrax SemiBold";
+}
+.ss{
+    position: absolute;
+    width: 460px;
+    height: 276px;
+    top: 8em;
+    left: 44em;
+}
+.ee{
+    position: absolute;
+    width: 460px;
+    height: 276px;
+    top: 8em;
+    left: 77em;
+}
+.ww{
+    position: absolute;
+    width: 460px;
+    height: 276px;
+    top: 29em;
+    left: 77em;  
+}
+.hh{
+    position: absolute;
+    width: 460px;
+    height: 276px;
+    top: 29em;
+    left: 44em;
+}
+.kk{
+    position: absolute;
+    width: 460px;
+    height: 276px;
+    top: 29em;
+    left: 11em;
+}
